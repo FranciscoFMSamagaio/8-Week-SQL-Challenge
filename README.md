@@ -6,7 +6,7 @@ It showcases my ability to tackle various SQL challenges and demonstrates my pro
 
 📚 Table of Contents
 
-- Case Study #1: [Danny's Diner](https://github.com/FranciscoFMSamagaio/8-Week-SQL-Challenge/blob/main/Danny's%20Diner/README.md)
+- [Case Study #1: Danny's Diner](https://github.com/FranciscoFMSamagaio/8-Week-SQL-Challenge/blob/main/Danny's%20Diner/README.md)
 - Case Study #2: Pizza Runner
 - Case Study #3: Foodie-Fi
 - Case Study #4: Data Bank
